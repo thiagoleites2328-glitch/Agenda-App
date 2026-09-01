@@ -1,0 +1,19 @@
+{
+  "name": "Tu agenda",
+  "short_name": "Tu agenda",
+  "description": "Agenda de materias, evaluaciones y recordatorios.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f4ef",
+  "theme_color": "#f7f4ef",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
